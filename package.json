@@ -1,0 +1,21 @@
+{
+  "name": "nxtwave-ai-workshop",
+  "version": "1.0.0",
+  "description": "NxtWave - Build Your First AI Project Landing Page with Interactive Referral Engine",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "nxtwave",
+    "ai",
+    "workshop",
+    "landing-page",
+    "referral-system",
+    "vercel"
+  ],
+  "author": "NxtWave Student Developer",
+  "license": "MIT"
+}
